@@ -10,6 +10,7 @@
       <module fileurl="file://$PROJECT_DIR$/SnakeGame2/SnakeGame2.iml" filepath="$PROJECT_DIR$/SnakeGame2/SnakeGame2.iml" />
       <module fileurl="file://$PROJECT_DIR$/SnakeNdLadder/SnakeNdLadder.iml" filepath="$PROJECT_DIR$/SnakeNdLadder/SnakeNdLadder.iml" />
       <module fileurl="file://$PROJECT_DIR$/TaxiBooking/TaxiBooking.iml" filepath="$PROJECT_DIR$/TaxiBooking/TaxiBooking.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TicTacToe/TicTacToe.iml" filepath="$PROJECT_DIR$/TicTacToe/TicTacToe.iml" />
     </modules>
   </component>
 </project>
