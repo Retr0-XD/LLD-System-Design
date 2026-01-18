@@ -80,7 +80,7 @@ public class Game {
        if(left==right){
            totalDiag--;
        }
-       if(Math.abs(left-size-1)==right){
+       if(left+right==size){
 
            totalAntiDiag --;
        }
